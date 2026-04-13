@@ -30,7 +30,7 @@ I focus on building custom software solutions that bridge the gap between comple
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical)
 
 ### 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/YourProfile](https://linkedin.com/in/YourProfile)
+* **LinkedIn:** [linkedin.com/in/YourProfile]([https://linkedin.com/in/YourProfile](https://www.linkedin.com/in/sebastian-osto/))
 * **Portfolio/Website:** [yourwebsite.com](https://yourwebsite.com)
 * **Email:** [your.email@example.com](mailto:your.email@example.com)
 
