@@ -1,4 +1,4 @@
-# Hi there, I'm Sebastian Osto 🌟
+# Hi there, I'm Sebastian Osto ❄️
 
 I am a versatile **Python Developer** specializing in **Backend Systems** and **Odoo ERP** development. Currently, I am expanding my horizons by diving deep into the world of **Data Science**.
 
